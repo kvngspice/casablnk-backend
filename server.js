@@ -5,6 +5,8 @@ const path = require('path');
 const fs = require('fs');
 
 dotenv.config();
+
+const app = express();
 // Near the top of server.js, update CORS:
 app.use(cors({
   origin: [
@@ -16,8 +18,6 @@ app.use(cors({
   ],
   credentials: true
 }));
-const app = express();
-
 // Middleware
 app.use(cors());
 app.use(express.json());
