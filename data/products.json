@@ -1,0 +1,288 @@
+[
+  {
+    "_id": "ch1",
+    "name": "Athena Sofa Chair",
+    "category": "chairs",
+    "price": 536500,
+    "shortDesc": "A multifunctional 3 seater Sofa that transforms to a queen size bed",
+    "description": "The Athena sofa bed is designed for modern living ; a beautifully sculpted 3-seater sofa that effortlessly transforms into a queen-size bed.",
+    "mainImage": "/products/athena2.png",
+    "gallery": [
+      "/products/athena2.png",
+      "/products/athena3.png",
+      "/products/athena4.png"
+    ],
+    "variantImages": {
+      "Blue": "/products/athena2.png",
+      "Grey": "/products/athena3.png",
+      "Mustard": "/products/athena4.png"
+    },
+    "frameOptions": [
+      "Matte black Metal",
+      "Gloss Black Metal"
+    ],
+    "fabrics": [
+      "Linen",
+      "Velvet",
+      "Leather",
+      "Bouclé"
+    ],
+    "colors": {
+      "Linen": [
+        "#3186e2",
+        "#434343",
+        "#e2ad2f",
+        "#8B8178"
+      ],
+      "Velvet": [
+        "#2C2C2C",
+        "#3D3530",
+        "#4A4540",
+        "#1A1A2E"
+      ],
+      "Leather": [
+        "#2C2C2C",
+        "#5C4033",
+        "#8B7355",
+        "#D4C5B2"
+      ]
+    },
+    "details": {
+      "description": "The Athena is designed for modern living.",
+      "dimensions": "Sofa: 220cm × 90cm × 85cm",
+      "weight": "68 kg",
+      "leadTime": "7–10 working",
+      "care": "dust metal frame with dry clothing. professional upholstery require or couch  "
+    },
+    "priceModifiers": {
+      "fabricModifiers": {
+        "Linen": 0,
+        "Velvet": 25000,
+        "Leather": 50000
+      }
+    },
+    "inStock": true,
+    "featured": true,
+    "materials": [],
+    "sizes": [],
+    "updatedAt": "2026-04-25T01:24:56.600Z"
+  },
+  {
+    "_id": "tb1",
+    "name": "Water Spring Table",
+    "category": "tables",
+    "price": 210000,
+    "shortDesc": "Glass Center table inspired by water formation",
+    "description": "This is Glass Center table inspired by the formation of a water puddle.",
+    "mainImage": "/products/waterspring.png",
+    "gallery": [
+      "/products/waterspring.png"
+    ],
+    "materials": [
+      "Tempered Glass top"
+    ],
+    "details": {
+      "description": "Hewn from a single block of natural stone.",
+      "dimensions": "200cm × 100cm × 75cm",
+      "weight": "30 kg",
+      "leadTime": "7–10 working day",
+      "care": "clean glass with wet soft cloth "
+    },
+    "priceModifiers": {},
+    "inStock": true,
+    "featured": true,
+    "fabrics": [],
+    "sizes": [],
+    "updatedAt": "2026-04-25T01:27:30.164Z"
+  },
+  {
+    "_id": "tb2",
+    "name": "Magna Work Table",
+    "category": "tables",
+    "price": 85900,
+    "shortDesc": "A multifunctional work table",
+    "description": "A multifunctional work table with built in socket and cable management.",
+    "mainImage": "/products/magnaworktable.png",
+    "gallery": [
+      "/products/magnaworktable.png"
+    ],
+    "materials": [
+      "Oak",
+      "Walnut",
+      "Ash"
+    ],
+    "details": {
+      "description": "Three floating planes of solid hardwood.",
+      "dimensions": "45cm × 45cm × 55cm",
+      "weight": "8.6 kg",
+      "leadTime": "3–5 working days",
+      "care": "Dust regularly. Apply wood oil every 6 months."
+    },
+    "priceModifiers": {
+      "materialModifiers": {
+        "Oak": 0,
+        "Walnut": 15000,
+        "Ash": 10000
+      }
+    },
+    "inStock": true,
+    "fabrics": [],
+    "sizes": [],
+    "updatedAt": "2026-04-25T01:28:41.469Z"
+  },
+  {
+    "_id": "tb3",
+    "name": "Magna 2 toned center Table",
+    "category": "tables",
+    "price": 138900,
+    "shortDesc": "Cantilevered desk in blackened steel & glass",
+    "description": "Simple and functional center table made of metal frame and 2 toned wood.",
+    "mainImage": "/products/Magnacenter.png",
+    "gallery": [
+      "/products/Magnacenter.png"
+    ],
+    "materials": [
+      "Wood & metal"
+    ],
+    "details": {
+      "description": "Simple and functional center table with 2 drawers.",
+      "dimensions": "width: 26inches × length: 43inches × height: 18inches",
+      "weight": "42 kg",
+      "leadTime": "5-7 working days",
+      "care": "Steel: wipe with dry cloth. Avoid abrasive cleaners."
+    },
+    "priceModifiers": {},
+    "inStock": true
+  },
+  {
+    "_id": "lm1",
+    "name": "ATLAS",
+    "category": "lamps",
+    "price": 57000,
+    "shortDesc": "Ring pendant light, brushed brass finish",
+    "description": "A perfect circle of light. The HALO pendant casts a warm, even glow.",
+    "mainImage": "/products/halo.jpg",
+    "gallery": [
+      "/products/halo.jpg",
+      "/products/halo2.jpg"
+    ],
+    "materials": [
+      "Matte Black",
+      "Gloss Black"
+    ],
+    "sizes": [
+      "S · 30cm",
+      "M · 50cm",
+      "L · 80cm"
+    ],
+    "details": {
+      "description": "A perfect circle of light.",
+      "dimensions": "S: Ø30cm · M: Ø50cm · L: Ø80cm",
+      "weight": "S: 1.8 kg · M: 3.2 kg · L: 5.4 kg",
+      "leadTime": "2–3 weeks",
+      "care": "Dust with a microfibre cloth."
+    },
+    "priceModifiers": {
+      "sizeModifiers": {
+        "S · 30cm": 0,
+        "M · 50cm": 15000,
+        "L · 80cm": 30000
+      }
+    },
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "_id": "tv1",
+    "name": "Magna 2 Tone TV Console",
+    "category": "tvconsole",
+    "price": 168900,
+    "shortDesc": "Low platform TV console, solid walnut frame",
+    "description": "Highly functional TV console with built in socket and storage cabinet.",
+    "mainImage": "/products/magnaTV.png",
+    "gallery": [
+      "/products/magnaTV.png",
+      "/products/magnatv3.png",
+      "/products/magnatv2.jpg"
+    ],
+    "materials": [
+      "Wood & metal"
+    ],
+    "sizes": [
+      "MAXI",
+      "Mini"
+    ],
+    "details": {
+      "description": "Highly functional TV console with built in socket.",
+      "dimensions": "MAXI: Length 179cm depth 42cm height 55cm · Mini: Length 122cm",
+      "weight": "Maxi: 55 kg · Mini: 40 kg",
+      "leadTime": "5-7 working days",
+      "care": "Wood: dust and oil seasonally."
+    },
+    "priceModifiers": {
+      "sizeModifiers": {
+        "MAXI": 0,
+        "Mini": -20000
+      }
+    },
+    "inStock": true
+  },
+  {
+    "_id": "prod_1776355081056_5rtqwe",
+    "name": "xxccc",
+    "category": "chairs",
+    "price": 68900,
+    "shortDesc": "ccc",
+    "description": "x",
+    "mainImage": "/uploads/products/1776354980250-605231488.jpg",
+    "gallery": [
+      "/uploads/products/1776355027417-132051349.jpg"
+    ],
+    "materials": [
+      "metal",
+      "wood"
+    ],
+    "fabrics": [],
+    "sizes": [
+      "maxi",
+      "mini"
+    ],
+    "inStock": true,
+    "featured": false,
+    "details": {
+      "dimensions": "",
+      "weight": "",
+      "leadTime": "",
+      "care": ""
+    },
+    "createdAt": "2026-04-16T15:58:01.056Z",
+    "updatedAt": "2026-04-16T15:58:01.056Z"
+  },
+  {
+    "_id": "prod_1776356701566_p6ffv2",
+    "name": "jjkk",
+    "category": "chairs",
+    "price": 7900000,
+    "shortDesc": "coold",
+    "description": "jkkk",
+    "mainImage": "/uploads/products/1776356676955-273697651.png",
+    "gallery": [
+      "/uploads/products/1776356681289-469530236.jpg"
+    ],
+    "materials": [
+      "metal"
+    ],
+    "fabrics": [],
+    "sizes": [],
+    "inStock": true,
+    "featured": false,
+    "details": {
+      "dimensions": "",
+      "weight": "",
+      "leadTime": "",
+      "care": ""
+    },
+    "createdAt": "2026-04-16T16:25:01.566Z",
+    "updatedAt": "2026-04-16T16:25:01.566Z"
+  }
+]

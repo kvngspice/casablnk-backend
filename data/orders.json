@@ -1,0 +1,1513 @@
+[
+  {
+    "_id": "id_1776308381122_xowfyuoue",
+    "orderNumber": "CB2604001",
+    "customer": {
+      "name": "Test Customer",
+      "email": "test@example.com",
+      "phone": "123456789",
+      "address": "Test Address"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Test Product",
+        "price": 1000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 1000,
+    "deliveryFee": 0,
+    "total": 1000,
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T02:59:41.122Z",
+    "updatedAt": "2026-04-16T02:59:41.122Z",
+    "estimatedDelivery": "2026-05-07T02:59:41.122Z"
+  },
+  {
+    "_id": "id_1776310633509_ebp300aeu",
+    "orderNumber": "CB2604002",
+    "customer": {
+      "name": "Browser Test",
+      "email": "browser@test.com",
+      "phone": "123",
+      "address": "Test"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Test",
+        "price": 1000,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 1000,
+    "deliveryFee": 0,
+    "total": 1000,
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T03:37:13.509Z",
+    "updatedAt": "2026-04-16T03:37:13.509Z",
+    "estimatedDelivery": "2026-05-07T03:37:13.509Z"
+  },
+  {
+    "_id": "id_1776311699845_o4nse5zzv",
+    "orderNumber": "CB2604003",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "ppg",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 85900,
+    "deliveryFee": 0,
+    "total": 85900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T03:54:59.845Z",
+    "updatedAt": "2026-04-16T03:54:59.845Z",
+    "estimatedDelivery": "2026-05-07T03:54:59.845Z"
+  },
+  {
+    "_id": "id_1776311710926_9h7jnz8ug",
+    "orderNumber": "CB2604004",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "ppg@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 85900,
+    "deliveryFee": 0,
+    "total": 85900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T03:55:10.926Z",
+    "updatedAt": "2026-04-16T03:55:10.926Z",
+    "estimatedDelivery": "2026-05-07T03:55:10.926Z"
+  },
+  {
+    "_id": "id_1776313760266_ewe3k5ce0",
+    "orderNumber": "CB2604005",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb1",
+        "name": "Water Spring",
+        "price": 210000,
+        "quantity": 1,
+        "customization": {
+          "material": "Tempered Glass top",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 210000,
+    "deliveryFee": 0,
+    "total": 210000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T04:29:20.266Z",
+    "updatedAt": "2026-04-16T04:29:20.266Z",
+    "estimatedDelivery": "2026-05-07T04:29:20.266Z"
+  },
+  {
+    "_id": "id_1776313839281_3th4zp05s",
+    "orderNumber": "CB2604006",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb1",
+        "name": "Water Spring",
+        "price": 210000,
+        "quantity": 1,
+        "customization": {
+          "material": "Tempered Glass top",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 210000,
+    "deliveryFee": 0,
+    "total": 210000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T04:30:39.281Z",
+    "updatedAt": "2026-04-16T04:30:39.281Z",
+    "estimatedDelivery": "2026-05-07T04:30:39.281Z"
+  },
+  {
+    "_id": "id_1776313899650_5r24xnsle",
+    "orderNumber": "CB2604007",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb3",
+        "name": "Magna 2 toned center Table",
+        "price": 138900,
+        "quantity": 1,
+        "customization": {
+          "material": "Wood & metal",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 138900,
+    "deliveryFee": 0,
+    "total": 138900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T04:31:39.650Z",
+    "updatedAt": "2026-04-16T04:31:39.650Z",
+    "estimatedDelivery": "2026-05-07T04:31:39.650Z"
+  },
+  {
+    "_id": "id_1776360161171_dpcqokhwq",
+    "orderNumber": "CB2604008",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T17:22:41.170Z",
+    "updatedAt": "2026-04-16T17:22:41.170Z",
+    "estimatedDelivery": "2026-05-07T17:22:41.171Z"
+  },
+  {
+    "_id": "id_1776360286768_0b3y79yxs",
+    "orderNumber": "CB2604009",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T17:24:46.768Z",
+    "updatedAt": "2026-04-16T17:24:46.768Z",
+    "estimatedDelivery": "2026-05-07T17:24:46.768Z"
+  },
+  {
+    "_id": "id_1776376107796_ayouyt35g",
+    "orderNumber": "CB2604010",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T21:48:27.796Z",
+    "updatedAt": "2026-04-16T21:48:27.796Z",
+    "estimatedDelivery": "2026-05-07T21:48:27.796Z"
+  },
+  {
+    "_id": "id_1776377000777_sa3pp1kll",
+    "orderNumber": "CB2604011",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      },
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 605400,
+    "deliveryFee": 0,
+    "total": 605400,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:03:20.777Z",
+    "updatedAt": "2026-04-16T22:03:20.777Z",
+    "estimatedDelivery": "2026-05-07T22:03:20.777Z"
+  },
+  {
+    "_id": "id_1776377257082_y7qu65evm",
+    "orderNumber": "CB2604012",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      },
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 605400,
+    "deliveryFee": 0,
+    "total": 605400,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:07:37.082Z",
+    "updatedAt": "2026-04-16T22:07:37.082Z",
+    "estimatedDelivery": "2026-05-07T22:07:37.082Z"
+  },
+  {
+    "_id": "id_1776377349995_6jws1x6a1",
+    "orderNumber": "CB2604013",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 85900,
+    "deliveryFee": 0,
+    "total": 85900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:09:09.995Z",
+    "updatedAt": "2026-04-16T22:09:09.995Z",
+    "estimatedDelivery": "2026-05-07T22:09:09.995Z"
+  },
+  {
+    "_id": "id_1776377963837_icfx2837g",
+    "orderNumber": "CB2604014",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:19:23.837Z",
+    "updatedAt": "2026-04-16T22:19:23.837Z",
+    "estimatedDelivery": "2026-05-07T22:19:23.837Z"
+  },
+  {
+    "_id": "id_1776378070468_4wsmc51uw",
+    "orderNumber": "CB2604015",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      },
+      {
+        "productId": "lm1",
+        "name": "ATLAS",
+        "price": 57000,
+        "quantity": 1,
+        "customization": {
+          "material": "Matte Black",
+          "size": "S · 30cm",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 593500,
+    "deliveryFee": 0,
+    "total": 593500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:21:10.468Z",
+    "updatedAt": "2026-04-16T22:21:10.468Z",
+    "estimatedDelivery": "2026-05-07T22:21:10.468Z"
+  },
+  {
+    "_id": "id_1776378107033_ey9wkjc0k",
+    "orderNumber": "CB2604016",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      },
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 137800,
+    "deliveryFee": 0,
+    "total": 137800,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:21:47.033Z",
+    "updatedAt": "2026-04-16T22:21:47.033Z",
+    "estimatedDelivery": "2026-05-07T22:21:47.033Z"
+  },
+  {
+    "_id": "id_1776378135975_guiallc27",
+    "orderNumber": "CB2604017",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb3",
+        "name": "Magna 2 toned center Table",
+        "price": 138900,
+        "quantity": 1,
+        "customization": {
+          "material": "Wood & metal",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 138900,
+    "deliveryFee": 0,
+    "total": 138900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:22:15.975Z",
+    "updatedAt": "2026-04-16T22:22:15.975Z",
+    "estimatedDelivery": "2026-05-07T22:22:15.975Z"
+  },
+  {
+    "_id": "id_1776378417361_d2ce6022k",
+    "orderNumber": "CB2604018",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-16T22:26:57.361Z",
+    "updatedAt": "2026-04-16T22:26:57.361Z",
+    "estimatedDelivery": "2026-05-07T22:26:57.361Z"
+  },
+  {
+    "_id": "id_1776413881017_0otv4qazd",
+    "orderNumber": "CB2604019",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-17T08:18:01.016Z",
+    "updatedAt": "2026-04-17T08:18:01.016Z",
+    "estimatedDelivery": "2026-05-08T08:18:01.017Z"
+  },
+  {
+    "_id": "id_1776522166991_affqefwjd",
+    "orderNumber": "CB2604020",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb1",
+        "name": "Water Spring",
+        "price": 210000,
+        "quantity": 1,
+        "customization": {
+          "material": "Tempered Glass top",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 210000,
+    "deliveryFee": 0,
+    "total": 210000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-18T14:22:46.991Z",
+    "updatedAt": "2026-04-18T14:22:46.991Z",
+    "estimatedDelivery": "2026-05-09T14:22:46.991Z"
+  },
+  {
+    "_id": "id_1777078325732_w7mfdyvsh",
+    "orderNumber": "CB2604021",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:52:05.732Z",
+    "updatedAt": "2026-04-25T00:52:05.732Z",
+    "estimatedDelivery": "2026-05-16T00:52:05.732Z"
+  },
+  {
+    "_id": "id_1777078327383_lubx8rr55",
+    "orderNumber": "CB2604022",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:52:07.383Z",
+    "updatedAt": "2026-04-25T00:52:07.383Z",
+    "estimatedDelivery": "2026-05-16T00:52:07.384Z"
+  },
+  {
+    "_id": "id_1777078350606_1e83pit86",
+    "orderNumber": "CB2604023",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:52:30.606Z",
+    "updatedAt": "2026-04-25T00:52:30.606Z",
+    "estimatedDelivery": "2026-05-16T00:52:30.607Z"
+  },
+  {
+    "_id": "id_1777078379052_2mt6or14p",
+    "orderNumber": "CB2604024",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:52:59.052Z",
+    "updatedAt": "2026-04-25T00:52:59.052Z",
+    "estimatedDelivery": "2026-05-16T00:52:59.052Z"
+  },
+  {
+    "_id": "id_1777078383683_a65hvpal1",
+    "orderNumber": "CB2604025",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:53:03.683Z",
+    "updatedAt": "2026-04-25T00:53:03.683Z",
+    "estimatedDelivery": "2026-05-16T00:53:03.683Z"
+  },
+  {
+    "_id": "id_1777078393784_2ilc2wb9u",
+    "orderNumber": "CB2604026",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:53:13.784Z",
+    "updatedAt": "2026-04-25T00:53:13.784Z",
+    "estimatedDelivery": "2026-05-16T00:53:13.784Z"
+  },
+  {
+    "_id": "id_1777078400366_ugbg7xdzo",
+    "orderNumber": "CB2604027",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:53:20.366Z",
+    "updatedAt": "2026-04-25T00:53:20.366Z",
+    "estimatedDelivery": "2026-05-16T00:53:20.366Z"
+  },
+  {
+    "_id": "id_1777078410590_h12f2pxlt",
+    "orderNumber": "CB2604028",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 536500,
+    "deliveryFee": 0,
+    "total": 536500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:53:30.590Z",
+    "updatedAt": "2026-04-25T00:53:30.590Z",
+    "estimatedDelivery": "2026-05-16T00:53:30.590Z"
+  },
+  {
+    "_id": "id_1777078475409_k03p8clt7",
+    "orderNumber": "CB2604029",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tv1",
+        "name": "Magna 2 Tone TV Console",
+        "price": 168900,
+        "quantity": 1,
+        "customization": {
+          "material": "Wood & metal",
+          "size": "MAXI",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 168900,
+    "deliveryFee": 0,
+    "total": 168900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T00:54:35.409Z",
+    "updatedAt": "2026-04-25T00:54:35.409Z",
+    "estimatedDelivery": "2026-05-16T00:54:35.410Z"
+  },
+  {
+    "_id": "id_1777079969843_dygb5yme0",
+    "orderNumber": "CB2604030",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "lm1",
+        "name": "ATLAS",
+        "price": 57000,
+        "quantity": 1,
+        "customization": {
+          "material": "Matte Black",
+          "size": "S · 30cm",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 57000,
+    "deliveryFee": 0,
+    "total": 57000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T01:19:29.843Z",
+    "updatedAt": "2026-04-25T01:19:29.843Z",
+    "estimatedDelivery": "2026-05-16T01:19:29.843Z"
+  },
+  {
+    "_id": "id_1777082410993_mzymx0l8q",
+    "orderNumber": "CB2604031",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:00:10.993Z",
+    "updatedAt": "2026-04-25T02:00:10.993Z",
+    "estimatedDelivery": "2026-05-16T02:00:10.993Z"
+  },
+  {
+    "_id": "id_1777082437561_5b3ppwz2d",
+    "orderNumber": "CB2604032",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:00:37.561Z",
+    "updatedAt": "2026-04-25T02:00:37.561Z",
+    "estimatedDelivery": "2026-05-16T02:00:37.561Z"
+  },
+  {
+    "_id": "id_1777082514636_2deoym0eu",
+    "orderNumber": "CB2604033",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 85900,
+    "deliveryFee": 0,
+    "total": 85900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:01:54.636Z",
+    "updatedAt": "2026-04-25T02:01:54.636Z",
+    "estimatedDelivery": "2026-05-16T02:01:54.636Z"
+  },
+  {
+    "_id": "id_1777082554399_c9qndppio",
+    "orderNumber": "CB2604034",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      },
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 171800,
+    "deliveryFee": 0,
+    "total": 171800,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:02:34.399Z",
+    "updatedAt": "2026-04-25T02:02:34.399Z",
+    "estimatedDelivery": "2026-05-16T02:02:34.399Z"
+  },
+  {
+    "_id": "id_1777082682012_ua8u5m17s",
+    "orderNumber": "CB2604035",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:04:42.012Z",
+    "updatedAt": "2026-04-25T02:04:42.012Z",
+    "estimatedDelivery": "2026-05-16T02:04:42.012Z"
+  },
+  {
+    "_id": "id_1777082721907_tepieopfh",
+    "orderNumber": "CB2604036",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:05:21.907Z",
+    "updatedAt": "2026-04-25T02:05:21.907Z",
+    "estimatedDelivery": "2026-05-16T02:05:21.907Z"
+  },
+  {
+    "_id": "id_1777082802849_yiu931zzu",
+    "orderNumber": "CB2604037",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tb2",
+        "name": "Magna Work Table",
+        "price": 85900,
+        "quantity": 1,
+        "customization": {
+          "material": "Oak",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 85900,
+    "deliveryFee": 0,
+    "total": 85900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:06:42.849Z",
+    "updatedAt": "2026-04-25T02:06:42.849Z",
+    "estimatedDelivery": "2026-05-16T02:06:42.849Z"
+  },
+  {
+    "_id": "id_1777082928117_eyqmyaijs",
+    "orderNumber": "CB2604038",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "lm1",
+        "name": "ATLAS",
+        "price": 57000,
+        "quantity": 1,
+        "customization": {
+          "material": "Matte Black",
+          "size": "S · 30cm",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 57000,
+    "deliveryFee": 0,
+    "total": 57000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:08:48.117Z",
+    "updatedAt": "2026-04-25T02:08:48.117Z",
+    "estimatedDelivery": "2026-05-16T02:08:48.117Z"
+  },
+  {
+    "_id": "id_1777083004747_ul37jqlhu",
+    "orderNumber": "CB2604039",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "lm1",
+        "name": "ATLAS",
+        "price": 57000,
+        "quantity": 1,
+        "customization": {
+          "material": "Matte Black",
+          "size": "S · 30cm",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 57000,
+    "deliveryFee": 0,
+    "total": 57000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:10:04.747Z",
+    "updatedAt": "2026-04-25T02:10:04.747Z",
+    "estimatedDelivery": "2026-05-16T02:10:04.747Z"
+  },
+  {
+    "_id": "id_1777083152814_fw7yzf8f4",
+    "orderNumber": "CB2604040",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tv1",
+        "name": "Magna 2 Tone TV Console",
+        "price": 168900,
+        "quantity": 1,
+        "customization": {
+          "material": "Wood & metal",
+          "size": "MAXI",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 168900,
+    "deliveryFee": 0,
+    "total": 168900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:12:32.814Z",
+    "updatedAt": "2026-04-25T02:12:32.814Z",
+    "estimatedDelivery": "2026-05-16T02:12:32.814Z"
+  },
+  {
+    "_id": "id_1777083622526_fb5hl7513",
+    "orderNumber": "CB2604041",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776355081056_5rtqwe",
+        "name": "xxccc",
+        "price": 68900,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "size": "maxi",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 68900,
+    "deliveryFee": 0,
+    "total": 68900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:20:22.526Z",
+    "updatedAt": "2026-04-25T02:20:22.526Z",
+    "estimatedDelivery": "2026-05-16T02:20:22.526Z"
+  },
+  {
+    "_id": "id_1777085727555_hsjhkp9md",
+    "orderNumber": "CB2604042",
+    "customer": {
+      "name": "Samson Adebayo",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776356701566_p6ffv2",
+        "name": "jjkk",
+        "price": 7900000,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 7900000,
+    "deliveryFee": 0,
+    "total": 7900000,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T02:55:27.555Z",
+    "updatedAt": "2026-04-25T02:55:27.555Z",
+    "estimatedDelivery": "2026-05-16T02:55:27.555Z"
+  },
+  {
+    "_id": "id_1777087942492_qij58kez9",
+    "orderNumber": "CB2604043",
+    "customer": {
+      "name": "Samson fight club",
+      "email": "olp@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "prod_1776356701566_p6ffv2",
+        "name": "jjkk",
+        "price": 7900000,
+        "quantity": 1,
+        "customization": {
+          "material": "metal",
+          "variant": null,
+          "colorName": null
+        }
+      },
+      {
+        "productId": "ch1",
+        "name": "Athena Sofa Chair",
+        "price": 536500,
+        "quantity": 1,
+        "customization": {
+          "fabric": "Linen",
+          "color": "#3186e2",
+          "frame": "Matte black Metal",
+          "variant": "Blue",
+          "colorName": "#3186e2"
+        }
+      }
+    ],
+    "subtotal": 8436500,
+    "deliveryFee": 0,
+    "total": 8436500,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T03:32:22.492Z",
+    "updatedAt": "2026-04-25T03:32:22.492Z",
+    "estimatedDelivery": "2026-05-16T03:32:22.493Z"
+  },
+  {
+    "_id": "id_1777088506121_8de63p7y4",
+    "orderNumber": "CB2604044",
+    "customer": {
+      "name": "SamsoPPP",
+      "email": "sampelumi@gmail.com",
+      "phone": "08157472838",
+      "address": "10 ramat longe, magodo brook, cmd"
+    },
+    "items": [
+      {
+        "productId": "tv1",
+        "name": "Magna 2 Tone TV Console",
+        "price": 168900,
+        "quantity": 1,
+        "customization": {
+          "material": "Wood & metal",
+          "size": "MAXI",
+          "variant": null,
+          "colorName": null
+        }
+      }
+    ],
+    "subtotal": 168900,
+    "deliveryFee": 0,
+    "total": 168900,
+    "notes": "",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "createdAt": "2026-04-25T03:41:46.121Z",
+    "updatedAt": "2026-04-25T03:41:46.121Z",
+    "estimatedDelivery": "2026-05-16T03:41:46.121Z"
+  }
+]
