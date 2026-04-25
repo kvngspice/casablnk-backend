@@ -18,6 +18,7 @@ app.use(cors({
     'https://www.casablnk.com',
     'https://casablnk.vercel.app',
     'https://casablnk-frontend.vercel.app',
+    'https://casablnk-admin.vercel.app', 
     process.env.FRONTEND_URL
   ].filter(Boolean),
   credentials: true,
