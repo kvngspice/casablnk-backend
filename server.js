@@ -14,9 +14,15 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:3002',
     'http://localhost:3003',
-    process.env.FRONTEND_URL || 'https://casablnk.vercel.app'
-  ],
-  credentials: true
+    'https://casablnk.com',
+    'https://www.casablnk.com',
+    'https://casablnk.vercel.app',
+    'https://casablnk-frontend.vercel.app',
+    process.env.FRONTEND_URL
+  ].filter(Boolean),
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
 }));
 // Middleware
 app.use(cors());
